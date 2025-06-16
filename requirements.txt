@@ -1,0 +1,5 @@
+vibe-automation
+pydantic>=2.0.0
+playwright
+openai>=1.0.0
+python-dateutil
